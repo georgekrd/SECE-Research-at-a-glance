@@ -192,7 +192,7 @@ figure { margin: 0; }
 .chart .axis { stroke: #b9c5c8; stroke-width: 1; }
 .chart .tick { font-size: 12px; fill: var(--muted); font-weight: 600; }
 .chart-years .intl, .swatch.intl { fill: var(--teal-800); background: var(--teal-800); }
-.chart-years .greece, .swatch.greece { fill: var(--teal-200); background: var(--teal-200); }
+.chart-years .rest { fill: var(--teal-200); }
 .chart-years .partial rect { opacity: 0.45; }
 .chart-years .bar:hover rect { filter: brightness(0.9); }
 
